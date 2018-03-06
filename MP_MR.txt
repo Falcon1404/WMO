@@ -174,7 +174,7 @@
 				"role": "Kierownik projektu"
 			}
 		]
-	}
+	},
 	{
 		"name": "Srodowisko",
 		"models": [
@@ -199,5 +199,5 @@
 				"role": "Projektant interfejsu"
 			}
 		]
-	},
+	}
 ]

@@ -231,7 +231,7 @@
 			
 			
 		]
-	}
+	},
 	{
 		"name": "Srodowisko",
 		"models": [
@@ -260,5 +260,5 @@
 				"role": "Technik"
 			}
 		]
-	},
+	}
 ]

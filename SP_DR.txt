@@ -22,8 +22,6 @@
 				"name": "Dowod poprawnosci biznesowej architektury"
 				"role": "Architekt biznesowy"
 			}
-			
-		 		 	
 		]
 	},
 	{
@@ -226,7 +224,7 @@
 			
 			
 		]
-	}
+	},
 	{
 		"name": "Srodowisko",
 		"models": [
@@ -255,5 +253,5 @@
 				"role": "Technik"
 			}
 		]
-	},
+	}
 ]

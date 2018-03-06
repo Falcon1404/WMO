@@ -246,7 +246,7 @@
 				"role": "Kierownik projektu"
 			}
 		]
-	}
+	},
 	{
 		"name": "Srodowisko",
 		"models": [
@@ -279,5 +279,5 @@
 				"role": Inzynier procesow"
 			}
 		]
-	},
+	}
 ]
