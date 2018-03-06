@@ -82,7 +82,7 @@
 			{
 				"name": "Prototyp - sprzwdzic kto robi",
 				"role": "Architekt systemowy"
-			}
+			},
 			{
 				"name": "Wyniki testow deweloperskich",
 				"role": "Developer"
