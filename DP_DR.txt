@@ -100,9 +100,9 @@
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Prototyp - sprzwdzic kto robi",
-				"role": "Architekt systemowy"
-			}
+				"name": "Prototyp",
+				"role": "Developer"
+			},
 			{
 				"name": "Wyniki testow deweloperskich",
 				"role": "Developer"
