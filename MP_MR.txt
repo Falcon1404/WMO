@@ -58,7 +58,7 @@
 			},
 			{
 				name: "Software Architecture Document",
-				role: "Projektant baz danych"
+				role: "Architekt systemowy"
 			}
 		]
 	},

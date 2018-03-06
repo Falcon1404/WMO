@@ -38,6 +38,10 @@
 			{
 				name: "Prototyp interfejsu",
 				role: "Projektant interfejsu"
+			},
+			{
+				name: "Software Architecture Document",
+				role: "Architekt systemowy"
 			}
 		]
 	},

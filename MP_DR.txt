@@ -59,6 +59,10 @@
 			{
 				name: "Architectural Proof-of-Concept",
 				role: "Architekt systemowy"
+			},
+			{
+				name: "Software Architecture Document",
+				role: "Architekt systemowy"
 			}
 		]
 	},
