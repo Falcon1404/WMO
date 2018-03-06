@@ -54,6 +54,10 @@
 			{
 				name: "Dokument architektury systemu",
 				role: "Architekt systemowy"
+			},
+			{
+				name: "Plan zarz¹dzania wymaganiami",
+				role: "Analityk systemowy"
 			}
 		]
 	},
@@ -79,6 +83,14 @@
 			{
 				name: "Model wdro¿eniowy",
 				role: "Architekt systemowy"
+			},
+			{
+				name: "Model analityczny",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Dokument architektury referencyjnej",
+				role: "Architekt systemowy"
 			}
 		]
 	},
@@ -90,8 +102,12 @@
 				role: "Architekt systemowy"
 			},
 			{
-				name: "Prototyp - sprzwdziæ kto robi",
-				role: "Architekt systemowy"
+				name: "Prototyp",
+				role: "Developer"
+			},
+			{
+				name: "Plan etapów integracji",
+				role: "Integrator"
 			}
 		]
 	},
@@ -107,8 +123,12 @@
 				role: "Projektant testów"
 			},
 			{
-				name: "Wynik testów",
-				role: "Projektant testów"
+				name: "Podsumowanie testów",
+				role: "Tester"
+			},
+			{
+				name: "Lista pomys³ów na testy",
+				role: "Analityk testów"
 			},
 			{
 				name: "Skrypty testowe",
@@ -116,7 +136,15 @@
 			},
 			{
 				name: "Dane testowe",
-				role: "Tester"
+				role: "Analityk testów"
+			},
+			{
+				name: "Wynik testów",
+				role: "Analityk testów"
+			},
+			{
+				name: "Specyfikacja interfejsów testowych",
+				role: "Projektant testów"
 			}
 		]
 	},
@@ -132,8 +160,32 @@
 				role: "Kierownik konfiguracji"
 			},
 			{
-				name: "Instrukcja",
+				name: "Instrukcja u¿ytkownika koñcowego",
 				role: "Redaktor instrukcji"
+			},
+			{
+				name: "Plan wdro¿eniowy",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Dokument zmian w wersjach (Release notes)",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Materia³y szkoleniowe",
+				role: "Twórca kursów"
+			},
+			{
+				name: "Materia³y graficzne produktu",
+				role: "Grafik"
+			},
+			{
+				name: "Lista wymaganego dodatkowego oprogramowania",
+				role: "Implementer"
 			}
 		]
 	},

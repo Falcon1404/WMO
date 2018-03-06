@@ -78,8 +78,8 @@
 				role: "Architekt systemowy"
 			},
 			{
-				name: "Prototyp - sprzwdziæ kto robi",
-				role: "Architekt systemowy"
+				name: "Prototyp",
+				role: "Developer"
 			}
 		]
 	},
@@ -95,8 +95,8 @@
 				role: "Projektant testów"
 			},
 			{
-				name: "Wynik testów",
-				role: "Projektant testów"
+				name: "Podsumowanie testów",
+				role: "Tester"
 			},
 			{
 				name: "Skrypty testowe",
@@ -104,7 +104,11 @@
 			},
 			{
 				name: "Dane testowe",
-				role: "Tester"
+				role: "Analityk testów"
+			},
+			{
+				name: "Wynik testów",
+				role: "Analityk testów"
 			}
 		]
 	},
@@ -120,8 +124,28 @@
 				role: "Kierownik konfiguracji"
 			},
 			{
-				name: "Instrukcja",
+				name: "Instrukcja u¿ytkownika koñcowego",
 				role: "Redaktor instrukcji"
+			},
+			{
+				name: "Plan wdro¿eniowy",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Dokument zmian w wersjach (Release notes)",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
+				role: "Kierownik wdro¿eñ"
+			},
+			{
+				name: "Materia³y szkoleniowe",
+				role: "Twórca kursów"
+			},
+			{
+				name: "Lista wymaganego dodatkowego oprogramowania",
+				role: "Implementer"
 			}
 		]
 	},
