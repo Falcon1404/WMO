@@ -65,7 +65,7 @@
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Model wdro¿eniowy",
+				"name": "Model wdrozeniowy",
 				"role": "Architekt systemowy"
 			}
 		]
@@ -113,31 +113,31 @@
 		]
 	},
 	{
-		"name": "Wdro¿enie",
+		"name": "Wdrozenie",
 		"models": [
 			{
 				"name": "Produkt",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Instalator (Deployment unit)",
 				"role": "Kierownik konfiguracji"
 			},
 			{
-				"name": "Instrukcja u¿ytkownika koñcowego",
+				"name": "Instrukcja uzytkownika koñcowego",
 				"role": "Redaktor instrukcji"
 			},
 			{
-				"name": "Plan wdro¿eniowy",
-				"role": "Kierownik wdro¿eñ"
+				"name": "Plan wdrozeniowy",
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Dokument zmian w wersjach (Release notes)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Materialy szkoleniowe",
@@ -223,7 +223,7 @@
 				"role": "Projektant interfejsu"
 			},
 			{
-				"name": "Dokument przypadkow wdro¿eniowych",
+				"name": "Dokument przypadkow wdrozeniowych",
 				"role": Inzynier procesow"
 			}
 		]
