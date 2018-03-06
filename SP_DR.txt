@@ -13,7 +13,16 @@
 			{
 				name: "Analityczny model biznesowy",
 				role: "Analityk biznesowo-procesowy"
+			},
+			{
+				name: "Reguly biznesowe"
+				role: "Analityk biznesowo-procesowy"
+			},
+			{
+				name: "Dowód poprawnosci biznesowej architektury"
+				role: "Architekt biznesowy"
 			}
+			
 		 		 	
 		]
 	},
@@ -43,7 +52,13 @@
 			{
 				name: "Prototyp interfejsu",
 				role: "Projektant interfejsu"
+			},
+			{
+				name: "Plan zarzadzania wymaganiami",
+				role: "Analityk systemowy"
 			}
+			
+			
 		]
 	},
 	{
@@ -128,6 +143,10 @@
 			{
 				name: "Instrukcja",
 				role: "Redaktor instrukcji"
+			},
+			{
+				name: "Projekt graficzny produktu",
+				role: "Grafik"
 			}
 		]
 	},
@@ -143,9 +162,14 @@
 				role: "Kierownik konfiguracji"
 			},
 			{
+				name: "Opis konfiguracji œrodowiska",
+				role: "Kierownik konfiguracji"
+			},
+			{
 				name: "Plan zarzadzania konfiguracja",
 				role: "Kierownik konfiguracji"
 			}
+			
 		]
 	},
 	{
@@ -166,7 +190,29 @@
 			{
 				name: "Plan pomiarów",
 				role: "Kierownik projektu"
+			},
+			{
+				name: "Uzasadnienie biznesowe",
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Plan rozwiazywania problemow",
+				role: "Kierownik projektu"
+			},
+			{
+				 name: "Plan akceptacji produktu",
+				 role: "Kierownik projektu"
+			},
+			{
+				name: "Plan zapewniania jakosci",
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Plan zarzadzania ryzykiem",
+				role: "Kierownik projektu"
 			}
+			
+			
 		]
 	}
 	{
@@ -191,6 +237,10 @@
 			{
 				name: "Dokument dobrych praktyk: UI",
 				role: "Projektant interfejsu"
+			},
+			{
+				name: "Opis sposobu tworzenia instrukcji uzytkownika"
+				role: "Technik"
 			}
 		]
 	},
