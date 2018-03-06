@@ -236,6 +236,14 @@
 			{
 				name: "Plan zarz¹dzania ryzykiem",
 				role: "Kierownik projektu"
+			},
+			{
+				name: "Uzasadnienie biznesowe,
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Lista zg³oszonych problemów",
+				role: "Kierownik projektu"
 			}
 		]
 	}
@@ -264,6 +272,10 @@
 			},
 			{
 				name: "Dokument przypadków wdro¿eniowych",
+				role: Inzynier procesów"
+			},
+			{
+				name: "Szablony projektowe",
 				role: Inzynier procesów"
 			}
 		]
