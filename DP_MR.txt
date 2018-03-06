@@ -9,6 +9,18 @@
 			{
 				name: "Automation Requirements (Wymagania technologiczne ?)",
 				role: "Zamawiaj¹cy?"
+			},
+			{
+				name: "Dokument architektury biznesowej",
+				role: "Analityk biznesowo-procesowy"
+			},
+			{
+				name: "S³ownik biznesowy",
+				role: "Analityk biznesowo-procesowy"
+			},
+			{
+				name: "Model analizy biznesowej (realizacja biznesowego UC)",
+				role: "Analityk biznesowo-procesowy"
 			}
 		]
 	},
@@ -40,7 +52,7 @@
 				role: "Projektant interfejsu"
 			},
 			{
-				name: "Software Architecture Document",
+				name: "Dokument architektury systemu",
 				role: "Architekt systemowy"
 			}
 		]
@@ -62,6 +74,10 @@
 			},
 			{
 				name: "Architectural Proof-of-Concept",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Model wdro¿eniowy",
 				role: "Architekt systemowy"
 			}
 		]

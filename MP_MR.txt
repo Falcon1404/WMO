@@ -57,7 +57,11 @@
 				role: "Projektant baz danych"
 			},
 			{
-				name: "Software Architecture Document",
+				name: "Dokument architektury systemu",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Model wdro¿eniowy",
 				role: "Architekt systemowy"
 			}
 		]
