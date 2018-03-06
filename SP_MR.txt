@@ -101,8 +101,12 @@
 				role: "Projektant testów"
 			},
 			{
-				name: "Wynik testów",
-				role: "Projektant testów"
+				name: "Podsumowanie testów",
+				role: "Tester"
+			},
+			{
+				name: "Lista pomys³ów na testy",
+				role: "Analityk testów"
 			},
 			{
 				name: "Skrypty testowe",
@@ -110,8 +114,16 @@
 			},
 			{
 				name: "Dane testowe",
-				role: "Tester"
-			}			
+				role: "Analityk testów"
+			},
+			{
+				name: "Wynik testów",
+				role: "Analityk testów"
+			},
+			{
+				name: "Specyfikacja interfejsów testowych",
+				role: "Projektant testów"
+			}
 		]
 	},
 	{
