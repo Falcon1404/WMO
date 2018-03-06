@@ -1,0 +1,197 @@
+[
+	{
+		name: "Modelowanie biznesowe",
+		models: [
+			{
+				name: "Biznesowy model Use Case",
+				role: "Analityk biznesowo-procesowy"
+			},
+			{
+				name: "Automation Requirements (Wymagania technologiczne ?)",
+				role: "Zamawiajacy?"
+			},
+			{
+				name: "Analityczny model biznesowy",
+				role: "Analityk biznesowo-procesowy"
+			}
+		 		 	
+		]
+	},
+	{
+		name: "Wymagania",
+		models: [
+			{
+				name: "Wizja",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Wymagania zamawiajacego",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Model Use Case",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Slownik",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Specyfikacja uzupelniajaca",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Prototyp interfejsu",
+				role: "Projektant interfejsu"
+			}
+		]
+	},
+	{
+		name: "Analiza i projekt",
+		models: [
+			{
+				name: "Analiza architektury",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Model klas",
+				role: "Projektant"
+			},
+			{
+				name: "Model bazy danych",
+				role: "Projektant baz danych"
+			},
+			{
+				name: "Dokument architektury oprogramowania",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Dowód poprawnosci architektury",
+ 				role: "Architekt systemowy"
+			}
+			
+		]
+	},
+	{
+		name: "Implementacja",
+		models: [
+			{
+				name: "Model implementacyjny",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Prototyp - sprzwdziæ kto robi",
+				role: "Architekt systemowy"
+			}
+			{
+				name: "Wyniki testów deweloperskich",
+				role: "Developer"
+			}
+		]
+	},
+	{
+		name: "Testowanie",
+		models: [
+			{
+				name: "Plan testów",
+				role: "Kierownik testów"
+			},
+			{
+				name: "Zestaw testów",
+				role: "Projektant testów"
+			},
+			{
+				name: "Wynik testów",
+				role: "Projektant testów"
+			},
+			{
+				name: "Skrypty testowe",
+				role: "Tester"
+			},
+			{
+				name: "Dane testowe",
+				role: "Tester"
+			}			
+		]
+	},
+	{
+		name: "Wdrozenie",
+		models: [
+			{
+				name: "Produkt",
+				role: "Kierownik wdrozen"
+			},
+			{
+				name: "Instalator (Deployment unit)",
+				role: "Kierownik konfiguracji"
+			},
+			{
+				name: "Instrukcja",
+				role: "Redaktor instrukcji"
+			}
+		]
+	},
+	{
+		name: "Zarzadzanie zmianami i konfiguracj¹",
+		models: [
+			{
+				name: "Dokument zapotrzebowania na zmiany",
+				role: "Zarzadca zmianami"
+			},
+			{
+				name: "Repozytorium projektu",
+				role: "Kierownik konfiguracji"
+			},
+			{
+				name: "Plan zarzadzania konfiguracja",
+				role: "Kierownik konfiguracji"
+			}
+		]
+	},
+	{
+		name: "Zarzadzanie projektem",
+		models: [
+			{
+				name: "Plan rozwoju oprogramowania",
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Plan kolejnej iteracji",
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Lista ryzyk",
+				role: "Kierownik projektu"
+			},
+			{
+				name: "Plan pomiarów",
+				role: "Kierownik projektu"
+			}
+		]
+	}
+	{
+		name: "Srodowisko",
+		models: [
+			{
+				name: "Dokument dobrych praktyk: Modele Use-Case",
+				role: "Analityk systemowy"
+			},
+			{
+				name: "Dokument dobrych praktyk: Programowanie",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Dokument dobrych praktyk: Projektowanie",
+				role: "Architekt systemowy"
+			},
+			{
+				name: "Dokument dobrych praktyk: Testy",
+				role: "Projektant testów"
+			},
+			{
+				name: "Dokument dobrych praktyk: UI",
+				role: "Projektant interfejsu"
+			}
+		]
+	},
+]
