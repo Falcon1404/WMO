@@ -1,202 +1,202 @@
 [
 	{
-		name: "Modelowanie biznesowe",
-		models: [
+		"name": "Modelowanie biznesowe",
+		"models": [
 			{
-				name: "Biznesowy model Use Case",
-				role: "Analityk biznesowo-procesowy"
+				"name": "Biznesowy model Use Case",
+				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				name: "Automation Requirements (Wymagania technologiczne ?)",
-				role: "Zamawiaj¹cy?"
+				"name": "Automation Requirements (Wymagania technologiczne ?)",
+				"role": "Zamawiajacy?"
 			}
 		]
 	},
 	{
-		name: "Wymagania",
-		models: [
+		"name": "Wymagania",
+		"models": [
 			{
-				name: "Wizja",
-				role: "Analityk systemowy"
+				"name": "Wizja",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "Wymagania zamawiaj¹cego",
-				role: "Analityk systemowy"
+				"name": "Wymagania zamawiajacego",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "Model Use Case",
-				role: "Analityk systemowy"
+				"name": "Model Use Case",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "S³ownik",
-				role: "Analityk systemowy"
+				"name": "Slownik",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "Specyfikacja uzupe³niaj¹ca",
-				role: "Analityk systemowy"
+				"name": "Specyfikacja uzupelniajaca",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "Prototyp interfejsu",
-				role: "Projektant interfejsu"
+				"name": "Prototyp interfejsu",
+				"role": "Projektant interfejsu"
 			}
 		]
 	},
 	{
-		name: "Analiza i projekt",
-		models: [
+		"name": "Analiza i projekt",
+		"models": [
 			{
-				name: "Analiza architektury",
-				role: "Architekt systemowy"
+				"name": "Analiza architektury",
+				"role": "Architekt systemowy"
 			},
 			{
-				name: "Model klas",
-				role: "Projektant"
+				"name": "Model klas",
+				"role": "Projektant"
 			},
 			{
-				name: "Model bazy danych",
-				role: "Projektant baz danych"
+				"name": "Model bazy danych",
+				"role": "Projektant baz danych"
 			},
 			{
-				name: "Dokument architektury systemu",
-				role: "Architekt systemowy"
+				"name": "Dokument architektury systemu",
+				"role": "Architekt systemowy"
 			},
 			{
-				name: "Model wdro¿eniowy",
-				role: "Architekt systemowy"
+				"name": "Model wdro¿eniowy",
+				"role": "Architekt systemowy"
 			}
 		]
 	},
 	{
-		name: "Implementacja",
-		models: [
+		"name": "Implementacja",
+		"models": [
 			{
-				name: "Model implementacyjny",
-				role: "Architekt systemowy"
+				"name": "Model implementacyjny",
+				"role": "Architekt systemowy"
 			},
 			{
-				name: "Prototyp",
-				role: "Developer"
+				"name": "Prototyp",
+				"role": "Developer"
 			}
 		]
 	},
 	{
-		name: "Testowanie",
-		models: [
+		"name": "Testowanie",
+		"models": [
 			{
-				name: "Plan testów",
-				role: "Kierownik testów"
+				"name": "Plan testow",
+				"role": "Kierownik testow"
 			},
 			{
-				name: "Zestaw testów",
-				role: "Projektant testów"
+				"name": "Zestaw testow",
+				"role": "Projektant testow"
 			},
 			{
-				name: "Podsumowanie testów",
-				role: "Tester"
+				"name": "Podsumowanie testow",
+				"role": "Tester"
 			},
 			{
-				name: "Skrypty testowe",
-				role: "Tester"
+				"name": "Skrypty testowe",
+				"role": "Tester"
 			},
 			{
-				name: "Dane testowe",
-				role: "Analityk testów"
+				"name": "Dane testowe",
+				"role": "Analityk testow"
 			},
 			{
-				name: "Wynik testów",
-				role: "Analityk testów"
+				"name": "Wynik testow",
+				"role": "Analityk testow"
 			}
 		]
 	},
 	{
-		name: "Wdro¿enie",
-		models: [
+		"name": "Wdro¿enie",
+		"models": [
 			{
-				name: "Produkt",
-				role: "Kierownik wdro¿eñ"
+				"name": "Produkt",
+				"role": "Kierownik wdro¿eñ"
 			},
 			{
-				name: "Instalator (Deployment unit)",
-				role: "Kierownik konfiguracji"
+				"name": "Instalator (Deployment unit)",
+				"role": "Kierownik konfiguracji"
 			},
 			{
-				name: "Instrukcja u¿ytkownika koñcowego",
-				role: "Redaktor instrukcji"
+				"name": "Instrukcja u¿ytkownika koñcowego",
+				"role": "Redaktor instrukcji"
 			},
 			{
-				name: "Plan wdro¿eniowy",
-				role: "Kierownik wdro¿eñ"
+				"name": "Plan wdro¿eniowy",
+				"role": "Kierownik wdro¿eñ"
 			},
 			{
-				name: "Dokument zmian w wersjach (Release notes)",
-				role: "Kierownik wdro¿eñ"
+				"name": "Dokument zmian w wersjach (Release notes)",
+				"role": "Kierownik wdro¿eñ"
 			},
 			{
-				name: "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
-				role: "Kierownik wdro¿eñ"
+				"name": "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
+				"role": "Kierownik wdro¿eñ"
 			},
 			{
-				name: "Materia³y szkoleniowe",
-				role: "Twórca kursów"
+				"name": "Materialy szkoleniowe",
+				"role": "Tworca kursow"
 			},
 			{
-				name: "Lista wymaganego dodatkowego oprogramowania",
-				role: "Implementer"
+				"name": "Lista wymaganego dodatkowego oprogramowania",
+				"role": "Implementer"
 			}
 		]
 	},
 	{
-		name: "Zarz¹dzanie zmianami i konfiguracj¹",
-		models: [
+		"name": "Zarzadzanie zmianami i konfiguracja",
+		"models": [
 			{
-				name: "Dokument zapotrzebowania na zmiany",
-				role: "Zarz¹dca zmianami"
+				"name": "Dokument zapotrzebowania na zmiany",
+				"role": "Zarzadca zmianami"
 			},
 			{
-				name: "Repozytorium projektu",
-				role: "Kierownik konfiguracji"
+				"name": "Repozytorium projektu",
+				"role": "Kierownik konfiguracji"
 			}
 		]
 	},
 	{
-		name: "Zarz¹dzanie projektem",
-		models: [
+		"name": "Zarzadzanie projektem",
+		"models": [
 			{
-				name: "Plan rozwoju oprogramowania",
-				role: "Kierownik projektu"
+				"name": "Plan rozwoju oprogramowania",
+				"role": "Kierownik projektu"
 			},
 			{
-				name: "Plan kolejnej iteracji",
-				role: "Kierownik projektu"
+				"name": "Plan kolejnej iteracji",
+				"role": "Kierownik projektu"
 			},
 			{
-				name: "Lista ryzyk",
-				role: "Kierownik projektu"
+				"name": "Lista ryzyk",
+				"role": "Kierownik projektu"
 			}
 		]
 	}
 	{
-		name: "Œrodowisko",
-		models: [
+		"name": "Srodowisko",
+		"models": [
 			{
-				name: "Dokument dobrych praktyk: Modele Use-Case",
-				role: "Analityk systemowy"
+				"name": "Dokument dobrych praktyk: Modele Use-Case",
+				"role": "Analityk systemowy"
 			},
 			{
-				name: "Dokument dobrych praktyk: Programowanie",
-				role: "Architekt systemowy"
+				"name": "Dokument dobrych praktyk: Programowanie",
+				"role": "Architekt systemowy"
 			},
 			{
-				name: "Dokument dobrych praktyk: Projektowanie",
-				role: "Architekt systemowy"
+				"name": "Dokument dobrych praktyk: Projektowanie",
+				"role": "Architekt systemowy"
 			},
 			{
-				name: "Dokument dobrych praktyk: Testy",
-				role: "Projektant testów"
+				"name": "Dokument dobrych praktyk: Testy",
+				"role": "Projektant testow"
 			},
 			{
-				name: "Dokument dobrych praktyk: UI",
-				role: "Projektant interfejsu"
+				"name": "Dokument dobrych praktyk: UI",
+				"role": "Projektant interfejsu"
 			}
 		]
 	},
