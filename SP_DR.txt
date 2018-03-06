@@ -15,11 +15,11 @@
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				"name": "Reguly biznesowe"
+				"name": "Reguly biznesowe",
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				"name": "Dowod poprawnosci biznesowej architektury"
+				"name": "Dowod poprawnosci biznesowej architektury",
 				"role": "Architekt biznesowy"
 			}
 		]
@@ -249,7 +249,7 @@
 				"role": "Projektant interfejsu"
 			},
 			{
-				"name": "Opis sposobu tworzenia instrukcji uzytkownika"
+				"name": "Opis sposobu tworzenia instrukcji uzytkownika",
 				"role": "Technik"
 			}
 		]

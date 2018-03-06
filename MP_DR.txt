@@ -224,7 +224,7 @@
 			},
 			{
 				"name": "Dokument przypadkow wdrozeniowych",
-				"role": Inzynier procesow"
+				"role": "Inzynier procesow"
 			}
 		]
 	}

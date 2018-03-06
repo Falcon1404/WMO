@@ -238,7 +238,7 @@
 				"role": "Kierownik projektu"
 			},
 			{
-				"name": "Uzasadnienie biznesowe,
+				"name": "Uzasadnienie biznesowe",
 				"role": "Kierownik projektu"
 			},
 			{
@@ -272,11 +272,11 @@
 			},
 			{
 				"name": "Dokument przypadkow wdrozeniowych",
-				"role": Inzynier procesow"
+				"role": "Inzynier procesow"
 			},
 			{
 				"name": "Szablony projektowe",
-				"role": Inzynier procesow"
+				"role": "Inzynier procesow"
 			}
 		]
 	}
