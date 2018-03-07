@@ -11,7 +11,7 @@
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				"name": "Reguly biznesowe"
+				"name": "Reguly biznesowe",
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
@@ -19,7 +19,7 @@
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				"name": "Dowod poprawnosci biznesowej architektury"
+				"name": "Dowod poprawnosci biznesowej architektury",
 				"role": "Architekt biznesowy"
 			},
 			{
