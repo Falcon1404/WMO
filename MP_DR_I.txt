@@ -41,19 +41,7 @@
 		"name": "Analiza i projekt",
 		"models": [
 			{
-				"name": "Analiza architektury",
-				"role": "Architekt systemowy"
-			},
-			{
-				"name": "Model klas",
-				"role": "Projektant"
-			},
-			{
-				"name": "Model bazy danych",
-				"role": "Projektant baz danych"
-			},
-			{
-				"name": "Architectural Proof-of-Concept",
+				"name": "Dowod poprawnosci architektury",
 				"role": "Architekt systemowy"
 			},
 			{
@@ -63,19 +51,6 @@
 			{
 				"name": "Model wdrozeniowy",
 				"role": "Architekt systemowy"
-			}
-		]
-	},
-	{
-		"name": "Implementacja",
-		"models": [
-			{
-				"name": "Model implementacyjny",
-				"role": "Architekt systemowy"
-			},
-			{
-				"name": "Prototyp",
-				"role": "Developer"
 			}
 		]
 	},
@@ -91,19 +66,7 @@
 				"role": "Projektant testow"
 			},
 			{
-				"name": "Podsumowanie testow",
-				"role": "Tester"
-			},
-			{
-				"name": "Skrypty testowe",
-				"role": "Tester"
-			},
-			{
 				"name": "Dane testowe",
-				"role": "Analityk testow"
-			},
-			{
-				"name": "Wynik testow",
 				"role": "Analityk testow"
 			}
 		]
@@ -112,36 +75,8 @@
 		"name": "Wdrozenie",
 		"models": [
 			{
-				"name": "Produkt",
-				"role": "Kierownik wdrozeñ"
-			},
-			{
-				"name": "Instalator (Deployment unit)",
-				"role": "Kierownik konfiguracji"
-			},
-			{
 				"name": "Instrukcja uzytkownika koñcowego",
 				"role": "Redaktor instrukcji"
-			},
-			{
-				"name": "Plan wdrozeniowy",
-				"role": "Kierownik wdrozeñ"
-			},
-			{
-				"name": "Dokument zmian w wersjach (Release notes)",
-				"role": "Kierownik wdrozeñ"
-			},
-			{
-				"name": "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
-				"role": "Kierownik wdrozeñ"
-			},
-			{
-				"name": "Materialy szkoleniowe",
-				"role": "Tworca kursow"
-			},
-			{
-				"name": "Lista wymaganego dodatkowego oprogramowania",
-				"role": "Implementer"
 			}
 		]
 	},
@@ -161,7 +96,7 @@
 				"role": "Kierownik konfiguracji"
 			},
 			{
-				"name": "Plan rozwoju konfiguracji srodowiska",
+				"name": "Plan zarzadzania konfiguracja",
 				"role": "Kierownik konfiguracji"
 			}
 		]
@@ -219,7 +154,7 @@
 				"role": "Projektant interfejsu"
 			},
 			{
-				"name": "Dokument przypadkow wdrozeniowych",
+				"name": "Szablony projektowe",
 				"role": "Inzynier procesow"
 			}
 		]
