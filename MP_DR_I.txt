@@ -53,11 +53,15 @@
 				"role": "Projektant baz danych"
 			},
 			{
+				"name": "Architectural Proof-of-Concept",
+				"role": "Architekt systemowy"
+			},
+			{
 				"name": "Dokument architektury systemu",
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Model wdro¿eniowy",
+				"name": "Model wdrozeniowy",
 				"role": "Architekt systemowy"
 			}
 		]
@@ -105,31 +109,31 @@
 		]
 	},
 	{
-		"name": "Wdro¿enie",
+		"name": "Wdrozenie",
 		"models": [
 			{
 				"name": "Produkt",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Instalator (Deployment unit)",
 				"role": "Kierownik konfiguracji"
 			},
 			{
-				"name": "Instrukcja u¿ytkownika koñcowego",
+				"name": "Instrukcja uzytkownika koñcowego",
 				"role": "Redaktor instrukcji"
 			},
 			{
-				"name": "Plan wdro¿eniowy",
-				"role": "Kierownik wdro¿eñ"
+				"name": "Plan wdrozeniowy",
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Dokument zmian w wersjach (Release notes)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Materialy szkoleniowe",
@@ -151,6 +155,14 @@
 			{
 				"name": "Repozytorium projektu",
 				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Opis konfiguracji srodowiska",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Plan rozwoju konfiguracji srodowiska",
+				"role": "Kierownik konfiguracji"
 			}
 		]
 	},
@@ -167,6 +179,18 @@
 			},
 			{
 				"name": "Lista ryzyk",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan rozwiazywania problemow",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zapewniania jakosci",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zarzadzania ryzykiem",
 				"role": "Kierownik projektu"
 			}
 		]
@@ -193,6 +217,10 @@
 			{
 				"name": "Dokument dobrych praktyk: UI",
 				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Dokument przypadkow wdrozeniowych",
+				"role": "Inzynier procesow"
 			}
 		]
 	}

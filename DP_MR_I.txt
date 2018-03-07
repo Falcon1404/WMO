@@ -5,6 +5,18 @@
 			{
 				"name": "Biznesowy model Use Case",
 				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Dokument architektury biznesowej",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Slownik biznesowy",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Model analizy biznesowej (realizacja biznesowego UC)",
+				"role": "Analityk biznesowo-procesowy"
 			}
 		]
 	},
@@ -34,6 +46,14 @@
 			{
 				"name": "Prototyp interfejsu",
 				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Dokument architektury systemu",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Plan zarzadzania wymaganiami",
+				"role": "Analityk systemowy"
 			}
 		]
 	},
@@ -53,11 +73,19 @@
 				"role": "Projektant baz danych"
 			},
 			{
-				"name": "Dokument architektury systemu",
+				"name": "Architectural Proof-of-Concept",
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Model wdro¿eniowy",
+				"name": "Model wdrozeniowy",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Model analityczny",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Dokument architektury referencyjnej",
 				"role": "Architekt systemowy"
 			}
 		]
@@ -72,6 +100,10 @@
 			{
 				"name": "Prototyp",
 				"role": "Developer"
+			},
+			{
+				"name": "Plan etapow integracji",
+				"role": "Integrator"
 			}
 		]
 	},
@@ -91,6 +123,10 @@
 				"role": "Tester"
 			},
 			{
+				"name": "Lista pomyslow na testy",
+				"role": "Analityk testow"
+			},
+			{
 				"name": "Skrypty testowe",
 				"role": "Tester"
 			},
@@ -101,39 +137,47 @@
 			{
 				"name": "Wynik testow",
 				"role": "Analityk testow"
+			},
+			{
+				"name": "Specyfikacja interfejsow testowych",
+				"role": "Projektant testow"
 			}
 		]
 	},
 	{
-		"name": "Wdro¿enie",
+		"name": "Wdrozenie",
 		"models": [
 			{
 				"name": "Produkt",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Instalator (Deployment unit)",
 				"role": "Kierownik konfiguracji"
 			},
 			{
-				"name": "Instrukcja u¿ytkownika koñcowego",
+				"name": "Instrukcja uzytkownika koñcowego",
 				"role": "Redaktor instrukcji"
 			},
 			{
-				"name": "Plan wdro¿eniowy",
-				"role": "Kierownik wdro¿eñ"
+				"name": "Plan wdrozeniowy",
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Dokument zmian w wersjach (Release notes)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Bill of Materials (It describes the changes made in the version, and refers to how the product may be installed.)",
-				"role": "Kierownik wdro¿eñ"
+				"role": "Kierownik wdrozeñ"
 			},
 			{
 				"name": "Materialy szkoleniowe",
 				"role": "Tworca kursow"
+			},
+			{
+				"name": "Materialy graficzne produktu",
+				"role": "Grafik"
 			},
 			{
 				"name": "Lista wymaganego dodatkowego oprogramowania",
@@ -151,6 +195,14 @@
 			{
 				"name": "Repozytorium projektu",
 				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Opis konfiguracji srodowiska",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Plan rozwoju konfiguracji srodowiska",
+				"role": "Kierownik konfiguracji"
 			}
 		]
 	},
@@ -167,6 +219,26 @@
 			},
 			{
 				"name": "Lista ryzyk",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan rozwiazywania problemow",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zapewniania jakosci",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zarzadzania ryzykiem",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Uzasadnienie biznesowe",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Lista zgloszonych problemow",
 				"role": "Kierownik projektu"
 			}
 		]
@@ -193,6 +265,14 @@
 			{
 				"name": "Dokument dobrych praktyk: UI",
 				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Dokument przypadkow wdrozeniowych",
+				"role": "Inzynier procesow"
+			},
+			{
+				"name": "Szablony projektowe",
+				"role": "Inzynier procesow"
 			}
 		]
 	}
