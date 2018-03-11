@@ -1,0 +1,118 @@
+[
+	{
+		"name": "Modelowanie biznesowe",
+		"models": [
+			{
+				"name": "Biznesowy model Use Case",
+				"role": "Analityk biznesowo-procesowy"
+			}
+		]
+	},
+	{
+		"name": "Wymagania",
+		"models": [
+			{
+				"name": "Wizja",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Wymagania zamawiajacego",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Model Use Case",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Slownik",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Specyfikacja uzupelniajaca",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Prototyp interfejsu",
+				"role": "Projektant interfejsu"
+			}
+		]
+	},
+	{
+		"name": "Analiza i projekt",
+		"models": [
+			{
+				"name": "Dokument architektury systemu",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Model wdrozeniowy",
+				"role": "Architekt systemowy"
+			}
+		]
+	},
+	{
+		"name": "Testowanie",
+		"models": [
+			{
+				"name": "Plan testow",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Zestaw testow",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Dane testowe",
+				"role": "Analityk testow"
+			}
+		]
+	},
+	{
+		"name": "Wdrozenie",
+		"models": [
+			{
+				"name": "Instrukcja uzytkownika koncowego",
+				"role": "Redaktor instrukcji"
+			}
+		]
+	},
+	{
+		"name": "Zarzadzanie zmianami i konfiguracja",
+		"models": [
+			{
+				"name": "Dokument zapotrzebowania na zmiany",
+				"role": "Zarzadca zmianami"
+			},
+			{
+				"name": "Repozytorium projektu",
+				"role": "Kierownik konfiguracji"
+			}
+		]
+	},
+	{
+		"name": "Zarzadzanie projektem",
+		"models": [
+			{
+				"name": "Plan rozwoju oprogramowania",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan kolejnej iteracji",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Lista ryzyk",
+				"role": "Kierownik projektu"
+			}
+		]
+	},
+	{
+		"name": "Srodowisko",
+		"models": [
+			{
+				"name": "Szablony projektowe",
+				"role": "Inzynier procesow"
+			}
+		]
+	}
+]

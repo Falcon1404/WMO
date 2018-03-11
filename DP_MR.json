@@ -1,0 +1,211 @@
+[
+	{
+		"name": "Modelowanie biznesowe",
+		"models": [
+			{
+				"name": "Biznesowy model Use Case",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Slownik biznesowy",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Analityczny model biznesowy",
+				"role": "Analityk biznesowo-procesowy"
+			}
+		]
+	},
+	{
+		"name": "Wymagania",
+		"models": [
+			{
+				"name": "Wizja",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Wymagania zamawiajacego",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Model Use Case",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Slownik",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Specyfikacja uzupelniajaca",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Prototyp interfejsu",
+				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Plan zarzadzania wymaganiami",
+				"role": "Analityk systemowy"
+			}
+		]
+	},
+	{
+		"name": "Analiza i projekt",
+		"models": [
+			{
+				"name": "Dokument architektury oprogramowania",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Dowod poprawnosci architektury",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Model wdrozeniowy",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Dokument architektury referencyjnej",
+				"role": "Architekt systemowy"
+			}
+		]
+	},
+	{
+		"name": "Implementacja",
+		"models": [
+			{
+				"name": "Plan etapow integracji",
+				"role": "Integrator"
+			}
+		]
+	},
+	{
+		"name": "Testowanie",
+		"models": [
+			{
+				"name": "Plan testow",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Zestaw testow",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Dane testowe",
+				"role": "Analityk testow"
+			},
+			{
+				"name": "Specyfikacja interfejsow testowych",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Dokument architektury automatyzacji testów",
+				"role": "Projektant testow"
+			}
+		]
+	},
+	{
+		"name": "Wdrozenie",
+		"models": [
+			{
+				"name": "Instrukcja uzytkownika koncowego",
+				"role": "Redaktor instrukcji"
+			},
+			{
+				"name": "Materialy graficzne produktu",
+				"role": "Grafik"
+			}
+		]
+	},
+	{
+		"name": "Zarzadzanie zmianami i konfiguracja",
+		"models": [
+			{
+				"name": "Dokument zapotrzebowania na zmiany",
+				"role": "Zarzadca zmianami"
+			},
+			{
+				"name": "Repozytorium projektu",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Opis konfiguracji srodowiska",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Plan zarzadzania konfiguracja",
+				"role": "Kierownik konfiguracji"
+			}
+		]
+	},
+	{
+		"name": "Zarzadzanie projektem",
+		"models": [
+			{
+				"name": "Plan rozwoju oprogramowania",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan kolejnej iteracji",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Lista ryzyk",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan rozwiazywania problemow",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zapewniania jakosci",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Plan zarzadzania ryzykiem",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Uzasadnienie biznesowe",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Lista zgloszonych problemow",
+				"role": "Kierownik projektu"
+			}
+		]
+	},
+	{
+		"name": "Srodowisko",
+		"models": [
+			{
+				"name": "Dokument dobrych praktyk: Modele Use-Case",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Dokument dobrych praktyk: Programowanie",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Dokument dobrych praktyk: Projektowanie",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Dokument dobrych praktyk: Testy",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Dokument dobrych praktyk: UI",
+				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Dokument przypadkow wdrozeniowych",
+				"role": "Inzynier procesow"
+			},
+			{
+				"name": "Szablony projektowe",
+				"role": "Inzynier procesow"
+			}
+		]
+	}
+]
