@@ -14,6 +14,20 @@
 				"name": "Analityczny model biznesowy",
 				"role": "Analityk biznesowo-procesowy"
 			}
+		],		
+		"tasks": [
+			{
+				"name": "Identyfikacja aktorow biznesowych i ich przypadkow uzycia",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Utworzenie wspolnego słownika biznesowego",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Okreslenie pracownikow i encji biznesowych",
+				"role": "Projektant biznesowy"
+			}
 		]
 	},
 	{
@@ -47,6 +61,36 @@
 				"name": "Plan zarzadzania wymaganiami",
 				"role": "Analityk systemowy"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie dokumentu wizji",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Okreslenie potrzeb udzialowcow",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Okreslenie aktorow i przypadkow uzycia",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Utworzenie wspolnego slownika",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Uszczegolowienie przypadkow uzycia",
+				"role": "Specjalista od wymagan"
+			},
+			{
+				"name": "Utworzenie prototyp interfejsu",
+				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Utworzenie planu zarzadzania wymaganiami",
+				"role": "Analityk systemowy"
+			}
 		]
 	},
 	{
@@ -68,6 +112,20 @@
 				"name": "Dokument architektury referencyjnej",
 				"role": "Architekt systemowy"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Analiza architektury oprogramowania",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Opisanie komunikacji węzłów systemu",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Konstrukcja dowodu poprawnosci architektury",
+ 				"role": "Architekt systemowy"
+			}
 		]
 	},
 	{
@@ -75,6 +133,16 @@
 		"models": [
 			{
 				"name": "Plan etapow integracji",
+				"role": "Integrator"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Planowanie integracji systemów",
+				"role": "Integrator"
+			},
+			{
+				"name": "Planowanie integracji podsystemów",
 				"role": "Integrator"
 			}
 		]
@@ -102,17 +170,41 @@
 				"name": "Dokument architektury automatyzacji testów",
 				"role": "Projektant testow"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Okreslenie zapotrzebowania na testy",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Okreslenie celow testow",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Definicja struktury implementacji testow",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Definicja podejscia do testowania",
+				"role": "Analityk testow"
+			},
+			{
+				"name": "Okreslenie architektury srodowiska testowego",
+				"role": "Projektant testow"
+			}
 		]
 	},
 	{
 		"name": "Wdrozenie",
 		"models": [
 			{
-				"name": "Instrukcja uzytkownika koncowego",
-				"role": "Redaktor instrukcji"
-			},
-			{
 				"name": "Materialy graficzne produktu",
+				"role": "Grafik"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Stworzenie materialow graficznych produktu",
 				"role": "Grafik"
 			}
 		]
@@ -135,6 +227,20 @@
 			{
 				"name": "Plan zarzadzania konfiguracja",
 				"role": "Kierownik konfiguracji"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie planu zarzadzania konfiguracja",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Konfiguracja srodowiska testowego",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Aktualizacja dokumentu zapotrzebowania na zmiany",
+				"role": "Zarzadca zmianami"
 			}
 		]
 	},
@@ -173,6 +279,36 @@
 				"name": "Lista zgloszonych problemow",
 				"role": "Kierownik projektu"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Opracowanie planu rozwoju oprogramowania",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Utworzenie planu kolejnej iteracji",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Identyfikacja i oszacowanie ryzyk",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Utworzenie uzasadnienia biznesowego",
+				"role": "Kierownik projektu"
+			},
+			{
+				 "name": "Utworzenie planu akceptacji produktu",
+				 "role": "Kierownik projektu"
+			},
+			{
+				"name": "Utworzenie plan zapewniania jakosci",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Utworzenie planu zarzadzania ryzykiem",
+				"role": "Kierownik projektu"
+			}
 		]
 	},
 	{
@@ -204,6 +340,32 @@
 			},
 			{
 				"name": "Szablony projektowe",
+				"role": "Inzynier procesow"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie dokumentu dobrych praktyk: Modele Use-Case",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Utworzenie dokumentu dobrych praktyk: Programowanie",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Utworzenie dokumentu dobrych praktyk: Projektowanie",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Utworzenie dokumentu dobrych praktyk: Testy",
+				"role": "Projektant testow"
+			},
+			{
+				"name": "Utworzenie dokumentu dobrych praktyk: UI",
+				"role": "Projektant interfejsu"
+			},
+			{
+				"name": "Utworzenie szablonow projektowych",
 				"role": "Inzynier procesow"
 			}
 		]

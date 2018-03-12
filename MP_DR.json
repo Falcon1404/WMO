@@ -6,6 +6,16 @@
 				"name": "Biznesowy model Use Case",
 				"role": "Analityk biznesowo-procesowy"
 			}
+		],		
+		"tasks": [
+			{
+				"name": "Identyfikacja aktorow biznesowych i ich przypadkow uzycia",
+				"role": "Analityk biznesowo-procesowy"
+			},
+			{
+				"name": "Okreslenie pracownikow i encji biznesowych",
+				"role": "Projektant biznesowy"
+			}
 		]
 	},
 	{
@@ -35,6 +45,32 @@
 				"name": "Prototyp interfejsu",
 				"role": "Projektant interfejsu"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie dokumentu wizji",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Okreslenie potrzeb udzialowcow",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Okreslenie aktorow i przypadkow uzycia",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Utworzenie wspolnego slownika",
+				"role": "Analityk systemowy"
+			},
+			{
+				"name": "Uszczegolowienie przypadkow uzycia",
+				"role": "Specjalista od wymagan"
+			},
+			{
+				"name": "Utworzenie prototyp interfejsu",
+				"role": "Projektant interfejsu"
+			}
 		]
 	},
 	{
@@ -51,6 +87,20 @@
 			{
 				"name": "Model wdrozeniowy",
 				"role": "Architekt systemowy"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Analiza architektury oprogramowania",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Opisanie komunikacji wezlów systemu",
+				"role": "Architekt systemowy"
+			},
+			{
+				"name": "Konstrukcja dowodu poprawnosci architektury",
+ 				"role": "Architekt systemowy"
 			}
 		]
 	},
@@ -69,14 +119,19 @@
 				"name": "Dane testowe",
 				"role": "Analityk testow"
 			}
-		]
-	},
-	{
-		"name": "Wdrozenie",
-		"models": [
+		],
+		"tasks": [
 			{
-				"name": "Instrukcja uzytkownika koncowego",
-				"role": "Redaktor instrukcji"
+				"name": "Okreslenie zapotrzebowania na testy",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Okreslenie celow testow",
+				"role": "Kierownik testow"
+			},
+			{
+				"name": "Definicja podejscia do testowania",
+				"role": "Analityk testow"
 			}
 		]
 	},
@@ -99,6 +154,20 @@
 				"name": "Plan zarzadzania konfiguracja",
 				"role": "Kierownik konfiguracji"
 			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie planu zarzadzania konfiguracja",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Konfiguracja srodowiska testowego",
+				"role": "Kierownik konfiguracji"
+			},
+			{
+				"name": "Aktualizacja dokumentu zapotrzebowania na zmiany",
+				"role": "Zarzadca zmianami"
+			}
 		]
 	},
 	{
@@ -113,19 +182,29 @@
 				"role": "Kierownik projektu"
 			},
 			{
-				"name": "Lista ryzyk",
-				"role": "Kierownik projektu"
-			},
-			{
 				"name": "Plan rozwiazywania problemow",
 				"role": "Kierownik projektu"
-			},
+			}
+		],
+		"tasks": [
 			{
-				"name": "Plan zapewniania jakosci",
+				"name": "Opracowanie planu rozwoju oprogramowania",
 				"role": "Kierownik projektu"
 			},
 			{
-				"name": "Plan zarzadzania ryzykiem",
+				"name": "Utworzenie planu kolejnej iteracji",
+				"role": "Kierownik projektu"
+			},
+			{
+				"name": "Identyfikacja i oszacowanie ryzyk",
+				"role": "Kierownik projektu"
+			},
+			{
+				 "name": "Utworzenie planu akceptacji produktu",
+				 "role": "Kierownik projektu"
+			},
+			{
+				"name": "Utworzenie planu zarzadzania ryzykiem",
 				"role": "Kierownik projektu"
 			}
 		]
@@ -134,27 +213,13 @@
 		"name": "Srodowisko",
 		"models": [
 			{
-				"name": "Dokument dobrych praktyk: Modele Use-Case",
-				"role": "Analityk systemowy"
-			},
-			{
-				"name": "Dokument dobrych praktyk: Programowanie",
-				"role": "Architekt systemowy"
-			},
-			{
-				"name": "Dokument dobrych praktyk: Projektowanie",
-				"role": "Architekt systemowy"
-			},
-			{
-				"name": "Dokument dobrych praktyk: Testy",
-				"role": "Projektant testow"
-			},
-			{
-				"name": "Dokument dobrych praktyk: UI",
-				"role": "Projektant interfejsu"
-			},
-			{
 				"name": "Szablony projektowe",
+				"role": "Inzynier procesow"
+			}
+		],
+		"tasks": [
+			{
+				"name": "Utworzenie szablonow projektowych",
 				"role": "Inzynier procesow"
 			}
 		]
