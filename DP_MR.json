@@ -21,7 +21,7 @@
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
-				"name": "Utworzenie wspolnego słownika biznesowego",
+				"name": "Utworzenie wspolnego slownika biznesowego",
 				"role": "Analityk biznesowo-procesowy"
 			},
 			{
@@ -119,7 +119,7 @@
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Opisanie komunikacji węzłów systemu",
+				"name": "Opisanie komunikacji wezlow systemu",
 				"role": "Architekt systemowy"
 			},
 			{
@@ -138,11 +138,11 @@
 		],
 		"tasks": [
 			{
-				"name": "Planowanie integracji systemów",
+				"name": "Planowanie integracji systemow",
 				"role": "Integrator"
 			},
 			{
-				"name": "Planowanie integracji podsystemów",
+				"name": "Planowanie integracji podsystemow",
 				"role": "Integrator"
 			}
 		]
@@ -167,7 +167,7 @@
 				"role": "Projektant testow"
 			},
 			{
-				"name": "Dokument architektury automatyzacji testów",
+				"name": "Dokument architektury automatyzacji testow",
 				"role": "Projektant testow"
 			}
 		],

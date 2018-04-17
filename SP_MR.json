@@ -107,7 +107,7 @@
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Opisanie komunikacji wezlów systemu",
+				"name": "Opisanie komunikacji wezlow systemu",
 				"role": "Architekt systemowy"
 			},
 			{
@@ -126,11 +126,11 @@
 		],
 		"tasks": [
 			{
-				"name": "Planowanie integracji systemów",
+				"name": "Planowanie integracji systemow",
 				"role": "Integrator"
 			},
 			{
-				"name": "Planowanie integracji podsystemów",
+				"name": "Planowanie integracji podsystemow",
 				"role": "Integrator"
 			}
 		]

@@ -6,7 +6,7 @@
 				"name": "Biznesowy model Use Case",
 				"role": "Analityk biznesowo-procesowy"
 			}
-		],		
+		],
 		"tasks": [
 			{
 				"name": "Identyfikacja aktorow biznesowych i ich przypadkow uzycia",
@@ -91,10 +91,15 @@
 				"role": "Architekt systemowy"
 			},
 			{
-				"name": "Opisanie komunikacji wezlów systemu",
+				"name": "Opisanie komunikacji wezlï¿½w systemu",
 				"role": "Architekt systemowy"
 			}
 		]
+	},
+	{
+		"name": "Implementacja",
+		"models": [],
+		"tasks": []
 	},
 	{
 		"name": "Testowanie",
@@ -126,6 +131,11 @@
 				"role": "Analityk testow"
 			}
 		]
+	},
+	{
+		"name": "Wdrozenie",
+		"models": [],
+		"tasks": []
 	},
 	{
 		"name": "Zarzadzanie zmianami i konfiguracja",
